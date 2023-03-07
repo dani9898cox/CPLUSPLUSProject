@@ -1,0 +1,21 @@
+[2022-05-13 13:29:28] [info] Start Program:
+Path:"C:\Users\dani7\source\repos\Lab7Qt\x64\Debug\Lab7Qt.exe"
+Arguments:
+Working directory: "C:\Users\dani7\source\repos\Lab7Qt\Lab7Qt\"
+Modules: Selected: C:\Users\dani7\source\repos\Lab7Qt\x64\Debug\Lab7Qt.exe Excluded: 
+Sources: Selected: C:\Users\dani7\source\repos\Lab7Qt\Lab7Qt Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\dani7\AppData\Local\Temp\30bqnnh5.elq 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-05-13 13:29:28] [info] Module: C:\Users\dani7\source\repos\Lab7Qt\x64\Debug\Lab7Qt.exe is selected because it matches selected pattern: C:\Users\dani7\source\repos\Lab7Qt\x64\Debug\Lab7Qt.exe
+[2022-05-13 13:29:30] [info] ----------------------------------------------------
+[2022-05-13 13:29:30] [info] Coverage binary generated in file: C:\Users\dani7\AppData\Local\Temp\30bqnnh5.elq
+[2022-05-13 13:29:30] [info] ----------------------------------------------------

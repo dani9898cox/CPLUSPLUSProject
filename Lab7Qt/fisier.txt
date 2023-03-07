@@ -1,0 +1,7 @@
+MS69EDI Mondeo Ford sedan
+MS45COX Puscat Audi sedan
+MS74GYL GLC Mercedes coupe
+MS23XYZ Seria BMW sedan
+MS12DMX Focus Ford sedan
+MS56GDF mx5 Mazda cabrio
+MS90CLK civic Honda ceva

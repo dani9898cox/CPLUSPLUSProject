@@ -1,0 +1,14 @@
+﻿  Cos.cpp
+  CosuletGui.cpp
+  Masina.cpp
+  MasinaStoreGui.cpp
+  main.cpp
+  repomasina.cpp
+  servicemasina.cpp
+  ui.cpp
+  validator.cpp
+C:\Users\dani7\source\repos\Lab7Qt\Lab7Qt\servicemasina.cpp(106): warning C4715: '<lambda_976f54b385865f651914bb4590d68d8b>::operator()': not all control paths return a value
+C:\Users\dani7\source\repos\Lab7Qt\Lab7Qt\CosuletGui.cpp(111,53): warning C4305: 'argument': truncation from 'Qt::GlobalColor' to 'bool'
+  Lab7Qt.vcxproj -> C:\Users\dani7\source\repos\Lab7Qt\x64\Debug\Lab7Qt.exe
+  windeployqt: "C:/Qt/6.3.0/msvc2019_64/bin\windeployqt.exe" --list target --dir C:\Users\dani7\source\repos\Lab7Qt\x64\Debug\ C:\Users\dani7\source\repos\Lab7Qt\x64\Debug\Lab7Qt.exe
+EXEC : warning : Cannot find Visual Studio installation directory, VCINSTALLDIR is not set.

@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>Lab7QtClass</class>
+ <widget class="QWidget" name="Lab7QtClass" >
+  <property name="objectName" >
+   <string notr="true">Lab7QtClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Lab7Qt</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="Lab7Qt.qrc"/>
+ </resources>
+ <connections/>
+</UI>
